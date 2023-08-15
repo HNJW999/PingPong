@@ -1,0 +1,22 @@
+#Page {
+    text-align: center;
+}
+
+#Board {
+    border: 3px solid;
+}
+
+#Score {
+    font-family: "consolas", monospace;
+    font-size: 100px;
+}
+
+#Reset {
+    font-family: "Permanent Marker", cursive;
+    font-size: 22px;
+    width: 100px;
+    height: 50px;
+    border: 4px solid;
+    border-radius: 15px;
+    cursor: pointer;
+}
